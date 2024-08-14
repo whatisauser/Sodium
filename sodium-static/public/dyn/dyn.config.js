@@ -5,7 +5,7 @@ self.__dynamic$config = {
   logLevel: 3,
   bare: {
     version: 3,
-    path: "https://shy-queen-c13e.ben-42b.workers.dev/"
+    path: "https://shy-queen-c13e.ben-42b.workers.dev"
   },
   tab: {
     title: 'Service',
